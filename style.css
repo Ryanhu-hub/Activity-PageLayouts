@@ -1,6 +1,61 @@
 span {
   display: inline-block;
+  text-align: center;
 }
+
+#center {
+  text-align: center
+
+
+}
+
+li {
+  display: inline;
+  margin-left: 10px;
+  text-align: center;
+}
+
+
+.promotion {
+  background: blue;
+  height: 25px;
+  color: white;
+  text-align: center;
+}
+
+#pic {
+  height: 50px;
+  display: inline-block;
+  padding: 1em;
+  margin: 1em;
+}
+
+#icons {
+  text-align: center;
+  height: 50px;
+
+}
+
+#mini-layout div {
+  text-align:center;
+  display: inline-block;
+  width: 24%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* span {
   display: inline-block;
   background-color: lightblue;
